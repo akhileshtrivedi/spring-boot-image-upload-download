@@ -1,6 +1,6 @@
 
 
-# Spring Boot Image Upload and Download Example
+# Spring Boot3 Image Upload and Download Example
 
 This is a simple Spring Boot application that demonstrates image upload and download functionality. Users can upload images, and the application stores them on the server. Additionally, users can download the uploaded images.
 
