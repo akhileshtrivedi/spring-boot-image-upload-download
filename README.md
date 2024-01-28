@@ -6,7 +6,7 @@ This is a simple Spring Boot application that demonstrates image upload and down
 
 ## Technologies Used
 
-- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Spring Boot3](https://spring.io/projects/spring-boot)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [Spring MVC](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html)
 - [Thymeleaf](https://www.thymeleaf.org/)
